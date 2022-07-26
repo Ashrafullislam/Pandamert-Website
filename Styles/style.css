@@ -81,6 +81,17 @@ button.carousel-control-next {
 
     /* catagories product section end here  */
 
+    /* shoe section start here  */
+    #shoes{
+      margin:2rem 0;
+      width: 100%;
+
+    }
+    .card{
+      box-shadow: 7px 8px 18px 16px rgba(221, 218, 218, 0.3);
+      border:  none;
+    }
+
 
 
 
